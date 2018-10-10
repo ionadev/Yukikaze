@@ -33,7 +33,7 @@ class StatsCommand extends Command {
 			`,
 				true
 			)
-			.addField('❯ Source Code', '[View Here](https://github.com/Naval-Base/yukikaze)', true)
+			.addField('❯ Source Code', '[View Here](https://github.com/IamIshmaamKhan/Yukikaze)', true)
 	       .addField('❯ Version', `v${version}`, true)
 	       
 	       .addField(
