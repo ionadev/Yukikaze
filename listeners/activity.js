@@ -12,7 +12,7 @@ class ActivityListener extends Listener {
     }
 
     exec() {
-      this.client.user.setActivity('@Yukikaze, help', { type: 'WATCHING' })
+      this.client.user.setActivity('@Yukikaze help 💖', { type: '' })
     }
 }
 
